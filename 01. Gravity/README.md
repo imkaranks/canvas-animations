@@ -1,5 +1,3 @@
-<h1 align="center">Canvas Gravity</h1>
-
 ## Getting Started
 
 1. Clone the repository:

@@ -17,6 +17,12 @@
 
 - [Built Using](#built-using)
 - [Getting Started](#getting-started)
+- <details>
+    <summary>Animations</summary>
+    <ol>
+      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity">Gravity</a></li>
+    </ol>
+  </details>
 
 ## Built Using
 
