@@ -20,12 +20,14 @@
     <summary>Getting Started</summary>
     <ul>
       <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity#getting-started">Gravity</a></li>
+      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection#getting-started">Collision</a></li>
     </ul>
   </details>
 - <details>
     <summary>Animations</summary>
     <ul>
       <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity">Gravity</a></li>
+      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection">Collision</a></li>
     </ul>
   </details>
 
