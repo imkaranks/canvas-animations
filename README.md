@@ -16,12 +16,17 @@
 ## Table Of Content
 
 - [Built Using](#built-using)
-- [Getting Started](#getting-started)
+- <details>
+    <summary>Getting Started</summary>
+    <ul>
+      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity#getting-started">Gravity</a></li>
+    </ul>
+  </details>
 - <details>
     <summary>Animations</summary>
-    <ol>
+    <ul>
       <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity">Gravity</a></li>
-    </ol>
+    </ul>
   </details>
 
 ## Built Using
@@ -29,23 +34,3 @@
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Markup Language
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheet
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Scripting Language
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/imkaranks/canvas-animations.git
-   ```
-
-1. Install required dependencies:
-
-   ```bash
-   cd canvas-animations
-   npm install
-   ```
-
-1. Start your app in development mode:
-   ```bash
-   npm run dev
-   ```

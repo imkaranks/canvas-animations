@@ -9,7 +9,7 @@
 1. Install required dependencies:
 
    ```bash
-   cd canvas-animations
+   cd '.\canvas-animations\01. Gravity\'
    npm install
    ```
 

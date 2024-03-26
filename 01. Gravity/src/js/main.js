@@ -53,8 +53,6 @@ class Ball {
   }
 }
 
-let ball;
-
 function init() {
   canvas.width = window.innerWidth;
   canvas.height = window.innerHeight;
