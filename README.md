@@ -15,23 +15,23 @@
 
 ## Table Of Content
 
-- [Built Using](#built-using)
-- <details style="margin-bottom: 0">
-    <summary>Getting Started</summary>
-    <ul>
-      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity#getting-started">Gravity</a></li>
-      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection#getting-started">Collision</a></li>
-      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Constellations_Mouse_Trail#getting-started">Constellation Trails</a></li>
-    </ul>
-  </details>
-- <details>
-    <summary>Animations</summary>
-    <ul>
-      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity">Gravity</a></li>
-      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection">Collision</a></li>
-      <li><a href="https://sparkly-bunny-f8491e.netlify.app/">Constellation Trails</a></li>
-    </ul>
-  </details>
+<details>
+  <summary>Getting Started</summary>
+  <ul>
+    <li><a href="#built-using">Built using</a></li>
+    <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity#getting-started">Gravity</a></li>
+    <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection#getting-started">Collision</a></li>
+    <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/03.%20Constellations_Mouse_Trail#getting-started">Constellation trails</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Animations</summary>
+  <ul>
+    <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity">Gravity</a></li>
+    <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection">Collision</a></li>
+    <li><a href="https://sparkly-bunny-f8491e.netlify.app/">Constellation trails</a></li>
+  </ul>
+</details>
 
 ## Built Using
 
