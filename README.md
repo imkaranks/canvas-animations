@@ -16,11 +16,12 @@
 ## Table Of Content
 
 - [Built Using](#built-using)
-- <details>
+- <details style="margin-bottom: 0">
     <summary>Getting Started</summary>
     <ul>
       <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity#getting-started">Gravity</a></li>
       <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection#getting-started">Collision</a></li>
+      <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Constellations_Mouse_Trail#getting-started">Constellation Trails</a></li>
     </ul>
   </details>
 - <details>
@@ -28,6 +29,7 @@
     <ul>
       <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/01.%20Gravity">Gravity</a></li>
       <li><a href="https://github.com/imkaranks/canvas-animations/tree/main/02.%20Collision_Detection">Collision</a></li>
+      <li><a href="https://sparkly-bunny-f8491e.netlify.app/">Constellation Trails</a></li>
     </ul>
   </details>
 
